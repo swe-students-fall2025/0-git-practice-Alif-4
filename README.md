@@ -2,3 +2,6 @@
 [Is Software Engineering Still Worth it in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
 
 This article caught my eye because it covers a topic I feel as though many of us students who are close to graduating with CS degrees are concerned about. The author points out that coding is actually only about 30% of the job. We know that AI agents are more than capable in writing code. However, being a Software Engineer goes much beyond that. I was able to get some industry experience and much of the job included and even enforced using AI to increase work productivity and focus on designs, implementations, and testing iterationg rather than simply writing code. It was interesting to see how my experience and views with AI concurred with what was said in this article and how there is a lot of fear-mongering in this space. With this article and from what I have seen I think it is worth it to be a SWE but in this day and age it is more important to be an exceptional designer than an exceptional coder. 
+
+### comment by Jingyao:
+By reading this article I learned that to be an excellent software engineer, one should not be afraid of AI, but should learn about it and remain passionate about new things and changes. This is a great inspiration to me!
